@@ -1,0 +1,6 @@
+C:\Users\1\source\repos\calca\calca\Debug\calca.vcxprojAssemblyReference.cache
+C:\Users\1\source\repos\calca\calca\Debug\calca.MyForm.resources
+C:\Users\1\source\repos\calca\calca\Debug\calca.vcxproj.GenerateResource.cache
+C:\Users\1\source\repos\Калькулятор\calca\Debug\calca.vcxprojAssemblyReference.cache
+C:\Users\1\source\repos\Калькулятор\calca\Debug\calca.MyForm.resources
+C:\Users\1\source\repos\Калькулятор\calca\Debug\calca.vcxproj.GenerateResource.cache
